@@ -1,4 +1,5 @@
 # D.MAN
 This is my first repository.
 <br>
-author- Dvadastan Mehta
+author- Dvadastan Mehta(srm student)
+
